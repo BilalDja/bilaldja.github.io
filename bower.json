@@ -1,0 +1,16 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BilalDja/bilaldja.github.io",
+  "authors": [
+    "Bilal Djaghout <b.djaghout@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
